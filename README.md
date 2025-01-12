@@ -21,13 +21,21 @@ Provide a clear description of your project, its objectives, and key functionali
 ## Repository Structure
 
 / (root)
+
 ├── README.md         # Project overview, setup instructions, and documentation links
+
 ├── /src              # Source code organized by modules/features
+
 ├── /docs             # Additional documentation (design diagrams, user guides, etc.)
+
 ├── /tests            # Test scripts and sample data
+
 ├── .github
+
 │   ├── ISSUE_TEMPLATE.md    # Template for bug/issue reports
+
 │   └── PULL_REQUEST_TEMPLATE.md  # Guidelines for contributing
+
 └── LICENSE
 
 ## Setup & Installation
